@@ -19,3 +19,5 @@ Para usar este proyecto, sigue estos pasos:
 Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request para sugerencias de mejora.
 
 ![alt text](image.png)
+
+[text](<../../Vídeos/Grabaciones de la pantalla/Grabación de pantalla desde 18-04-24 22:44:08.webm>)

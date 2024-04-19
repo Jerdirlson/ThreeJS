@@ -20,4 +20,4 @@ Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request p
 
 ![alt text](image.png)
 
-[text](<../../Vídeos/Grabaciones de la pantalla/Grabación de pantalla desde 18-04-24 22:44:08.webm>)
+[Grabación de pantalla desde 18-04-24 22:44:08.webm](https://github.com/Jerdirlson/ThreeJS/assets/85373298/9454b0e7-0cae-4656-95f1-f420566625eb)
